@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">SermoMemo</string>
+
+    <!-- Navigation -->
+    <string name="destination_today">Hoy</string>
+    <string name="destination_languages">Idiomas</string>
+    <string name="destination_library">Biblioteca</string>
+    <string name="destination_progress">Progreso</string>
+    <string name="destination_settings">Ajustes</string>
+
+    <!-- Primary actions -->
+    <string name="action_quick_review">Repaso rápido</string>
+    <string name="action_add_language">Añadir idioma</string>
+    <string name="action_add_concept">Añadir concepto</string>
+
+    <!-- Empty states -->
+    <string name="today_empty_title">Nada pendiente por ahora</string>
+    <string name="today_empty_description">Cuando tengas conceptos guardados, aquí verás qué toca practicar.</string>
+    <string name="languages_empty_title">Aún no tienes idiomas</string>
+    <string name="languages_empty_description">Crea tu primer idioma para empezar a guardar lo que aprendes.</string>
+    <string name="library_empty_title">Tu biblioteca está vacía</string>
+    <string name="library_empty_description">Todo lo que captures aparecerá aquí, listo para buscar y filtrar.</string>
+    <string name="progress_empty_title">Todavía no hay progreso que mostrar</string>
+    <string name="progress_empty_description">Después de tu primera sesión verás retención, tiempo y conceptos que conviene reforzar.</string>
+    <string name="settings_empty_title">Ajustes</string>
+    <string name="settings_empty_description">Apariencia, estudio, datos y copias. Disponible en la siguiente fase.</string>
 </resources>
